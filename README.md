@@ -20,7 +20,7 @@ Players can send messages to each other using the number keys!
 <img width="567" alt="Snake4" src="https://user-images.githubusercontent.com/92807500/155755448-54ddd8b2-0668-41ee-b945-abe19363f06b.PNG">
 
 
-Multiple players can play at once!
+Multiple players can play at once! (Requires multiple terminals open)
 <img width="561" alt="snake2" src="https://user-images.githubusercontent.com/92807500/155753983-89e9b3f1-8029-4d40-9939-ddcd67ae4017.PNG">
 
 
