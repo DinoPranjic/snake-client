@@ -10,6 +10,8 @@ Before you can run this client, you will need to be running the server side whic
 
 <img width="565" alt="snake1" src="https://user-images.githubusercontent.com/92807500/155753474-b621a7a1-9654-48f5-99a2-664d0e627980.PNG">
 
+<img width="567" alt="Snake4" src="https://user-images.githubusercontent.com/92807500/155755448-54ddd8b2-0668-41ee-b945-abe19363f06b.PNG">
+
 <img width="561" alt="snake2" src="https://user-images.githubusercontent.com/92807500/155753983-89e9b3f1-8029-4d40-9939-ddcd67ae4017.PNG">
 
 <img width="569" alt="Snake3" src="https://user-images.githubusercontent.com/92807500/155754010-46b2e9f7-842a-4b3b-8818-f0b711c5d346.PNG">
